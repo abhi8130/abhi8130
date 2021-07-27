@@ -2,7 +2,7 @@
 
 I work as a automation test engineer with selenium, appium & rest-assured skills. I´m based in New Delhi, India.
 
-Since 2018 I've been living and automating the manual work. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through automation & code. ✨😍
+Since 2018, I've been living and automating the manual work. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through automation & code. ✨😍
 
 ### What I'm focusing on 👨‍💻
 
