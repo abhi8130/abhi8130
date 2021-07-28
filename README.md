@@ -24,9 +24,9 @@ Currently improving my Rest Assured automation skills: Rest Asssured libraries, 
 ![](https://img.shields.io/badge/Swagger-239120?style=for-the-badge&logo=Swagger&logoColor=white)
 ![](https://img.shields.io/badge/intellij-2F2625?style=for-the-badge&logo=intellij&logoColor=white)
 
-### My most recent posts on [testproject.io](https://www.linkedin.com/in/abhishek-chauhan-58a490156/) 😃🧾
+### My most recent posts on [testproject.io](https://blog.testproject.io/2021/07/28/rest-api-automation-from-scratch/) 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [Rest API Automation From Scratch](https://www.linkedin.com/in/abhishek-chauhan-58a490156/)
+- [Rest API Automation From Scratch](https://blog.testproject.io/2021/07/28/rest-api-automation-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
